@@ -116,7 +116,7 @@ body {
 #slider {
     margin-top: 46.5px;
     padding-top: 50%;
-    background: url('/the_band/assets/img/slider.jpg') top center / cover no-repeat;
+    background: url('https://www.w3schools.com/w3images/la.jpg') top center / cover no-repeat;
     position: relative;
 }
 #slider .text-content {
