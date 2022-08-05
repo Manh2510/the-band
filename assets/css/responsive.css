@@ -1,0 +1,41 @@
+@media (max-width: 739px) {
+    #header {
+        overflow: hidden;
+    }
+    #slider .text-content {
+        display: none;
+    }
+    #header #nav > li {
+        display: block;
+    }
+    #header .search-icon {
+        display: none;
+    }
+    #header .menu_mobile {
+        display: block;
+    }
+    #content-section .items {
+        width: 100%;
+    }
+    .member-list .items .img-member {
+        width: 60%;
+    }
+    .s-full {
+        width:100%;
+        margin-top: 16px;
+    }
+    .place-inf .buy-btn {
+        width: 100%;
+    }
+    .inp2 {
+        width: 100%;
+    }
+    .socials-list > a {
+        font-size: 32px;
+        display: inline-block;
+        margin: 0 8px;
+    }
+    .socials-list p {
+        font-size: 40px;
+    }
+}
